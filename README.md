@@ -1,3 +1,3 @@
 # Jogo
 Jogo Yoshi Pula
-https://jogo-yoshi-pula.netlify.app/
+pula-yoshi.netlify.app
